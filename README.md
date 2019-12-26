@@ -1,2 +1,2 @@
 # Formatting Tips for Categorical Plots Using Seaborn
-hi
+Take full control of using seaborn catplot function to visualize your data.
