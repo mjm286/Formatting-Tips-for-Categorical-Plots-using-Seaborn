@@ -1,1 +1,1 @@
-# Formatting-Tips-for-Categorical-Plots-using-Seaborn
+# Formatting Tips-for-Categorical-Plots-using-Seaborn
